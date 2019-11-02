@@ -24,9 +24,9 @@
 
 ## Demo （此处借用一张女神照片）
 
-![输入]()  
+![输入](https://github.com/getlxc/FaceLandmark/blob/master/girl/in.jpg)  
 
-![输出]()  
+![输出](https://github.com/getlxc/FaceLandmark/blob/master/girl/out.jpg)  
 
 
 ## License
